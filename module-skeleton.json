@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-cpanel-filament",
+  "capabilityKey": "liberusoftware/billing-cpanel",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/billing-cpanel-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-cpanel.md",
+  "presentationPlan": "projects/billing/filament/module-billing-cpanel.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
